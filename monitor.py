@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # monitor.py
+# Author : kowonsik https://github.com/kowonsik
 
 import platform
 import sys
