@@ -36,5 +36,4 @@ sudo chgrp pi iBeacon-Scanner-
 sudo python testblescan.py
 ```
 
-![Data](https://github.com/jeonghoonkang/raspberry/img/blob/master/iBeacon_Scanner.png)
-(https://github.com/sonnonet/iTop/blob/master/gpio.png)
+![Data](https://github.com/sonnonet/raspberry/blob/patch-2/img/iBeacon_Scanner.png)
